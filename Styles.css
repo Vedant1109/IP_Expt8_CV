@@ -1,0 +1,23 @@
+.fbg{
+    background-color: rgb(253, 250, 250);
+}
+
+.rbg{
+    background-color: aqua;
+    margin-top: 0px;
+    margin-bottom: 50%;
+}
+
+.roundcorner{
+    border-radius: 20px;
+}
+
+.btn{
+    border-radius: 0.40rem;
+}
+
+.btn-info {
+    text-decoration-color: #000000;
+    background-color: #957DAD;
+    border-color: #0dcaf0;
+}
